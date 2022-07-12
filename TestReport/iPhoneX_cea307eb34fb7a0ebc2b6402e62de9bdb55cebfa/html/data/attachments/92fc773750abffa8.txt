@@ -1,0 +1,13 @@
+INFO     iOS:log.py:35 --> init.activate_app
+INFO     iOS:log.py:35 启动后，检查app登录态
+INFO     iOS:log.py:35 --> init.check_login_status
+INFO     iOS:log.py:35 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+INFO     iOS:log.py:35 --> Login.logout
+INFO     iOS:log.py:35 退出登录
+DEBUG    iOS:log.py:32 
+--> TestLogin.test_02_logout
+INFO     iOS:log.py:35 --> Login.logout
+INFO     iOS:log.py:35 退出登录
+ERROR    iOS:log.py:44 	<-- Login.logout, Exception, ('element not found', 'timeout 30.0')
+ERROR    iOS:log.py:44 <-- TestLogin.test_02_logout, Exception, ('element not found', 'timeout 30.0')
+INFO     iOS:log.py:35 运行完关闭app

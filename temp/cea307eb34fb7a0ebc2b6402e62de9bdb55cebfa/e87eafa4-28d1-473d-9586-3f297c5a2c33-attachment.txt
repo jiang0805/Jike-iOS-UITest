@@ -1,0 +1,10 @@
+INFO     iOS:log.py:35 --> init.check_login_status
+INFO     iOS:log.py:35 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+DEBUG    iOS:log.py:32 
+--> TestMine.test_00_check_mine
+INFO     iOS:log.py:35 --> init.click_my_tab
+INFO     iOS:log.py:35 --> mine.check_mine_status
+INFO     iOS:log.py:35 判断主客态个人页
+INFO     iOS:log.py:35 --> mine.check_page_element
+INFO     iOS:log.py:35 检查我的页面元素
+DEBUG    iOS:log.py:32 <-- TestMine.test_00_check_mine, Success

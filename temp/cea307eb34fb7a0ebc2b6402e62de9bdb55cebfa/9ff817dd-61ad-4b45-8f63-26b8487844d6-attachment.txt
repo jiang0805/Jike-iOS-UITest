@@ -1,0 +1,6 @@
+DEBUG    iOS:log.py:32 
+--> TestLogin.test_02_logout
+INFO     iOS:log.py:35 --> Login.logout
+INFO     iOS:log.py:35 退出登录
+DEBUG    iOS:log.py:32 <-- TestLogin.test_02_logout, Success
+INFO     iOS:log.py:35 运行完关闭app

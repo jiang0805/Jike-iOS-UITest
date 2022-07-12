@@ -1,0 +1,6 @@
+DEBUG    iOS:log.py:32 
+--> TestMine.test_01_edit_account_gender
+INFO     iOS:log.py:35 --> mine.select_edit_gender
+INFO     iOS:log.py:35 选择性别
+ERROR    iOS:log.py:44 	<-- mine.select_edit_gender, Exception, ('element not found', 'timeout 30.0')
+ERROR    iOS:log.py:44 <-- TestMine.test_01_edit_account_gender, Exception, ('element not found', 'timeout 30.0')

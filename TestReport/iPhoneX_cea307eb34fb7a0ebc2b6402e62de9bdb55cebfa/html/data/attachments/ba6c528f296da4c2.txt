@@ -1,0 +1,11 @@
+INFO     iOS:log.py:35 --> init.activate_app
+INFO     iOS:log.py:35 启动后，检查app登录态
+INFO     iOS:log.py:35 --> init.check_login_status
+INFO     iOS:log.py:35 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+INFO     iOS:log.py:35 检查app登录状态出错
+DEBUG    iOS:log.py:32 
+--> TestLogin.test_01_phone_login
+INFO     iOS:log.py:35 --> Login.select_agreement_update_agree
+INFO     iOS:log.py:35 选择同意协议
+ERROR    iOS:log.py:44 	<-- Login.select_agreement_update_agree, Exception, ('element not found', 'timeout 30.0')
+ERROR    iOS:log.py:44 <-- TestLogin.test_01_phone_login, Exception, ('element not found', 'timeout 30.0')

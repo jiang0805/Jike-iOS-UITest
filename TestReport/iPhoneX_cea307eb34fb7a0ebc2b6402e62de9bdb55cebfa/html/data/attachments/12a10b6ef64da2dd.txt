@@ -1,0 +1,5 @@
+DEBUG    iOS:log.py:32 
+--> TestMine.test_00_search_circle
+INFO     iOS:log.py:35 --> init.click_discovery_tab
+ERROR    iOS:log.py:44 	<-- init.click_discovery_tab, Exception, ('element not found', 'timeout 30.0')
+ERROR    iOS:log.py:44 <-- TestMine.test_00_search_circle, Exception, ('element not found', 'timeout 30.0')

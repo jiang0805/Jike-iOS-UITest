@@ -1,0 +1,9 @@
+DEBUG    iOS:log.py:32 
+--> TestSearch.test_00_search_circle
+INFO     iOS:log.py:35 --> init.click_discovery_tab
+INFO     iOS:log.py:35 --> search.click_search
+INFO     iOS:log.py:35 点击搜索框
+INFO     iOS:log.py:35 --> search.search_default
+INFO     iOS:log.py:35 搜索，展示默认搜索结果
+ERROR    iOS:log.py:44 	<-- search.search_default, Exception, 搜索结果异常
+ERROR    iOS:log.py:44 <-- TestSearch.test_00_search_circle, Exception, 搜索结果异常

@@ -1,0 +1,2 @@
+INFO     iOS:log.py:35 --> init.activate_app
+ERROR    iOS:log.py:44 	<-- init.activate_app, Exception, activate_app() missing 1 required positional argument: 'self'

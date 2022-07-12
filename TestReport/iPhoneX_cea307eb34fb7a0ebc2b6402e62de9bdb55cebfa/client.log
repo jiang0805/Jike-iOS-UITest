@@ -1,0 +1,1053 @@
+2022-06-23 17:54:32,639 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-23 17:57:11,031 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-23 17:58:12,198 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-23 18:05:38,743 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-23 19:16:45,021 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-23 19:16:45,021 - iPhone X - INFO - /Users/jike/PycharmProjects/pythonProject/TestReport/iPhoneX_cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-23 19:19:49,345 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-23 19:20:45,148 - iPhone X - INFO - /Users/jike/PycharmProjects/pythonProject/TestReport/iPhoneX_cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-23 20:10:46,323 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-23 20:10:46,323 - iPhone X - INFO - /Users/jike/PycharmProjects/pythonProject/TestReport/iPhoneX_cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 11:58:14,234 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 11:58:14,235 - iPhone X - INFO - /Users/jike/PycharmProjects/pythonProject/TestReport/iPhoneX_cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 12:16:00,766 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 12:16:00,767 - iPhone X - INFO - /Users/jike/PycharmProjects/pythonProject/TestReport/iPhoneX_cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 12:16:21,586 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 12:16:21,587 - iPhone X - INFO - /Users/jike/PycharmProjects/pythonProject/TestReport/iPhoneX_cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 12:16:21,961 - iPhone X - INFO - None
+2022-06-24 12:16:23,747 - iPhone X - INFO - --> init.activate_app
+2022-06-24 12:16:23,747 - iPhone X - ERROR - 	<-- init.activate_app, Exception, activate_app() missing 1 required positional argument: 'self'
+2022-06-24 14:34:39,830 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 14:34:39,831 - iPhone X - INFO - /Users/jike/PycharmProjects/pythonProject/TestReport/iPhoneX_cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 14:34:43,247 - iPhone X - INFO - None
+2022-06-24 14:34:44,514 - iPhone X - INFO - --> init.activate_app
+2022-06-24 14:34:44,514 - iPhone X - ERROR - 	<-- init.activate_app, Exception, activate_app() missing 1 required positional argument: 'self'
+2022-06-24 14:45:22,823 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 14:45:22,824 - iPhone X - INFO - /Users/jike/PycharmProjects/pythonProject/TestReport/iPhoneX_cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 14:45:23,093 - iPhone X - INFO - None
+2022-06-24 14:45:23,527 - iPhone X - INFO - --> init.activate_app
+2022-06-24 14:45:25,088 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 14:45:25,088 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 14:45:25,088 - iPhone X - ERROR - 	<-- init.check_login_status, Exception, check_login_status() missing 1 required positional argument: 'self'
+2022-06-24 14:46:57,402 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 14:46:57,403 - iPhone X - INFO - /Users/jike/PycharmProjects/pythonProject/TestReport/iPhoneX_cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 14:46:57,649 - iPhone X - INFO - None
+2022-06-24 14:47:50,103 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 14:47:50,104 - iPhone X - INFO - /Users/jike/PycharmProjects/pythonProject/TestReport/iPhoneX_cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 14:47:50,346 - iPhone X - INFO - None
+2022-06-24 14:47:50,812 - iPhone X - INFO - --> init.activate_app
+2022-06-24 14:47:52,358 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 14:47:52,358 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 14:47:52,359 - iPhone X - ERROR - 	<-- init.check_login_status, Exception, check_login_status() missing 1 required positional argument: 'self'
+2022-06-24 14:55:44,306 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 14:55:44,908 - iPhone X - INFO - --> init.activate_app
+2022-06-24 14:55:46,457 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 14:55:46,457 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 14:55:46,458 - iPhone X - ERROR - 	<-- init.check_login_status, Exception, check_login_status() missing 1 required positional argument: 'self'
+2022-06-24 14:57:09,450 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 14:57:09,941 - iPhone X - INFO - --> init.activate_app
+2022-06-24 14:57:11,469 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 14:57:11,470 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 14:57:11,470 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 14:57:13,263 - iPhone X - DEBUG - 
+--> TestLogin.test_00_check_agreement
+2022-06-24 14:57:13,264 - iPhone X - INFO - --> Login.check_agreement_update_popup_window
+2022-06-24 14:57:13,264 - iPhone X - INFO - 检查登录页协议更新弹窗
+2022-06-24 14:57:14,904 - iPhone X - INFO - --> Login.select_agreement_update_disagree
+2022-06-24 14:57:14,904 - iPhone X - INFO - 选择不同意并退出
+2022-06-24 14:57:18,001 - iPhone X - INFO - --> Login.check_agreement_update_popup_window
+2022-06-24 14:57:18,002 - iPhone X - INFO - 检查登录页协议更新弹窗
+2022-06-24 14:57:19,708 - iPhone X - INFO - --> Login.select_agreement_update_agree
+2022-06-24 14:57:19,708 - iPhone X - INFO - 选择同意协议
+2022-06-24 14:57:21,593 - iPhone X - INFO - --> Login.check_login_status
+2022-06-24 14:57:21,593 - iPhone X - INFO - 根据动态tab和我-编辑按钮，检查是否登录账号
+2022-06-24 14:57:21,714 - iPhone X - ERROR - 	<-- Login.check_login_status, Exception, 未检查到动态tab
+2022-06-24 14:57:23,113 - iPhone X - ERROR - <-- TestLogin.test_00_check_agreement, Exception, 未检查到动态tab
+
+2022-06-24 14:57:28,103 - iPhone X - DEBUG - 
+--> TestLogin.test_01_phone_login
+2022-06-24 14:57:28,104 - iPhone X - INFO - --> Login.select_agreement_update_agree
+2022-06-24 14:57:28,104 - iPhone X - INFO - 选择同意协议
+2022-06-24 14:57:58,444 - iPhone X - ERROR - 	<-- Login.select_agreement_update_agree, Exception, ('element not found', 'timeout 30.0')
+2022-06-24 14:57:59,860 - iPhone X - ERROR - <-- TestLogin.test_01_phone_login, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-24 14:58:00,274 - iPhone X - DEBUG - 
+--> TestLogin.test_02_logout
+2022-06-24 14:58:00,274 - iPhone X - INFO - --> Login.logout
+2022-06-24 14:58:00,274 - iPhone X - INFO - 退出登录
+2022-06-24 14:58:30,717 - iPhone X - ERROR - 	<-- Login.logout, Exception, ('element not found', 'timeout 30.0')
+2022-06-24 14:58:32,114 - iPhone X - ERROR - <-- TestLogin.test_02_logout, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-24 14:58:32,550 - iPhone X - INFO - 运行完关闭app
+2022-06-24 15:12:24,724 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 15:12:25,566 - iPhone X - INFO - --> init.activate_app
+2022-06-24 15:12:27,192 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 15:12:27,192 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 15:12:27,192 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 15:12:29,545 - iPhone X - INFO - --> Login.logout
+2022-06-24 15:12:29,545 - iPhone X - INFO - 退出登录
+2022-06-24 15:12:40,443 - iPhone X - DEBUG - 
+--> TestLogin.test_00_check_agreement
+2022-06-24 15:12:40,444 - iPhone X - INFO - --> Login.check_agreement_update_popup_window
+2022-06-24 15:12:40,444 - iPhone X - INFO - 检查登录页协议更新弹窗
+2022-06-24 15:12:42,077 - iPhone X - INFO - --> Login.select_agreement_update_disagree
+2022-06-24 15:12:42,077 - iPhone X - INFO - 选择不同意并退出
+2022-06-24 15:12:44,774 - iPhone X - DEBUG - <-- TestLogin.test_00_check_agreement, Success
+2022-06-24 15:12:46,851 - iPhone X - DEBUG - 
+--> TestLogin.test_01_phone_login
+2022-06-24 15:12:46,851 - iPhone X - INFO - --> Login.select_agreement_update_agree
+2022-06-24 15:12:46,851 - iPhone X - INFO - 选择同意协议
+2022-06-24 15:13:17,407 - iPhone X - ERROR - 	<-- Login.select_agreement_update_agree, Exception, ('element not found', 'timeout 30.0')
+2022-06-24 15:13:19,297 - iPhone X - ERROR - <-- TestLogin.test_01_phone_login, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-24 15:13:19,985 - iPhone X - DEBUG - 
+--> TestLogin.test_02_logout
+2022-06-24 15:13:19,986 - iPhone X - INFO - --> Login.logout
+2022-06-24 15:13:19,986 - iPhone X - INFO - 退出登录
+2022-06-24 15:13:55,119 - iPhone X - DEBUG - <-- TestLogin.test_02_logout, Success
+2022-06-24 15:13:55,469 - iPhone X - INFO - 运行完关闭app
+2022-06-24 15:15:25,435 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 15:15:25,987 - iPhone X - INFO - --> init.activate_app
+2022-06-24 15:15:27,569 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 15:15:27,570 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 15:15:27,570 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 15:15:29,506 - iPhone X - DEBUG - 
+--> TestLogin.test_00_check_agreement
+2022-06-24 15:15:29,507 - iPhone X - INFO - --> Login.check_agreement_update_popup_window
+2022-06-24 15:15:29,507 - iPhone X - INFO - 检查登录页协议更新弹窗
+2022-06-24 15:15:31,309 - iPhone X - INFO - --> Login.select_agreement_update_disagree
+2022-06-24 15:15:31,309 - iPhone X - INFO - 选择不同意并退出
+2022-06-24 15:15:34,029 - iPhone X - DEBUG - <-- TestLogin.test_00_check_agreement, Success
+2022-06-24 15:15:35,631 - iPhone X - INFO - --> init.activate_app
+2022-06-24 15:15:37,491 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 15:15:37,491 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 15:15:37,491 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 15:15:39,453 - iPhone X - DEBUG - 
+--> TestLogin.test_01_phone_login
+2022-06-24 15:15:39,453 - iPhone X - INFO - --> Login.select_more_login_window
+2022-06-24 15:15:39,453 - iPhone X - INFO - 选择更多登录方式
+2022-06-24 15:15:41,744 - iPhone X - INFO - --> Login.select_phone_login
+2022-06-24 15:15:41,744 - iPhone X - INFO - 选择账号密码登录
+2022-06-24 15:15:44,124 - iPhone X - ERROR - 	<-- Login.select_phone_login, Exception, ('element not found', 'timeout 2.0')
+2022-06-24 15:15:45,620 - iPhone X - ERROR - <-- TestLogin.test_01_phone_login, Exception, ('element not found', 'timeout 2.0')
+
+2022-06-24 15:15:47,178 - iPhone X - INFO - --> init.activate_app
+2022-06-24 15:15:48,270 - iPhone X - INFO - 运行完关闭app
+2022-06-24 15:15:49,263 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 15:15:49,795 - iPhone X - INFO - --> init.activate_app
+2022-06-24 15:15:51,381 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 15:15:51,382 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 15:15:51,382 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 15:15:53,334 - iPhone X - DEBUG - 
+--> TestLogin.test_00_check_agreement
+2022-06-24 15:15:53,335 - iPhone X - INFO - --> Login.check_agreement_update_popup_window
+2022-06-24 15:15:53,335 - iPhone X - INFO - 检查登录页协议更新弹窗
+2022-06-24 15:15:55,137 - iPhone X - INFO - --> Login.select_agreement_update_disagree
+2022-06-24 15:15:55,138 - iPhone X - INFO - 选择不同意并退出
+2022-06-24 15:15:57,850 - iPhone X - DEBUG - <-- TestLogin.test_00_check_agreement, Success
+2022-06-24 15:15:59,408 - iPhone X - INFO - --> init.activate_app
+2022-06-24 15:16:01,372 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 15:16:01,372 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 15:16:01,372 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 15:16:03,330 - iPhone X - DEBUG - 
+--> TestLogin.test_01_phone_login
+2022-06-24 15:16:03,331 - iPhone X - INFO - --> Login.select_more_login_window
+2022-06-24 15:16:03,331 - iPhone X - INFO - 选择更多登录方式
+2022-06-24 15:16:05,609 - iPhone X - INFO - --> Login.select_phone_login
+2022-06-24 15:16:05,609 - iPhone X - INFO - 选择账号密码登录
+2022-06-24 15:16:07,981 - iPhone X - ERROR - 	<-- Login.select_phone_login, Exception, ('element not found', 'timeout 2.0')
+2022-06-24 15:16:09,455 - iPhone X - ERROR - <-- TestLogin.test_01_phone_login, Exception, ('element not found', 'timeout 2.0')
+
+2022-06-24 15:16:11,026 - iPhone X - INFO - --> init.activate_app
+2022-06-24 15:16:12,580 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 15:16:12,580 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 15:16:12,580 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 15:16:14,528 - iPhone X - DEBUG - 
+--> TestLogin.test_02_logout
+2022-06-24 15:16:14,529 - iPhone X - INFO - --> Login.logout
+2022-06-24 15:16:14,529 - iPhone X - INFO - 退出登录
+2022-06-24 15:16:45,155 - iPhone X - ERROR - 	<-- Login.logout, Exception, ('element not found', 'timeout 30.0')
+2022-06-24 15:16:46,617 - iPhone X - ERROR - <-- TestLogin.test_02_logout, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-24 15:16:47,722 - iPhone X - INFO - 运行完关闭app
+2022-06-24 15:17:43,794 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 15:17:44,415 - iPhone X - INFO - --> init.activate_app
+2022-06-24 15:17:46,013 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 15:17:46,013 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 15:17:46,013 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 15:17:47,988 - iPhone X - DEBUG - 
+--> TestLogin.test_00_check_agreement
+2022-06-24 15:17:47,988 - iPhone X - INFO - --> Login.check_agreement_update_popup_window
+2022-06-24 15:17:47,988 - iPhone X - INFO - 检查登录页协议更新弹窗
+2022-06-24 15:17:49,803 - iPhone X - INFO - --> Login.select_agreement_update_disagree
+2022-06-24 15:17:49,803 - iPhone X - INFO - 选择不同意并退出
+2022-06-24 15:17:52,878 - iPhone X - INFO - --> Login.check_agreement_update_popup_window
+2022-06-24 15:17:52,878 - iPhone X - INFO - 检查登录页协议更新弹窗
+2022-06-24 15:17:54,681 - iPhone X - INFO - --> Login.select_agreement_update_agree
+2022-06-24 15:17:54,682 - iPhone X - INFO - 选择同意协议
+2022-06-24 15:17:56,864 - iPhone X - DEBUG - <-- TestLogin.test_00_check_agreement, Success
+2022-06-24 15:17:59,072 - iPhone X - INFO - --> init.activate_app
+2022-06-24 15:18:00,551 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 15:18:00,551 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 15:18:00,551 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 15:18:02,146 - iPhone X - INFO - 检查app登录状态出错
+2022-06-24 15:18:02,147 - iPhone X - DEBUG - 
+--> TestLogin.test_01_phone_login
+2022-06-24 15:18:02,147 - iPhone X - INFO - --> Login.select_agreement_update_agree
+2022-06-24 15:18:02,147 - iPhone X - INFO - 选择同意协议
+2022-06-24 15:18:32,643 - iPhone X - ERROR - 	<-- Login.select_agreement_update_agree, Exception, ('element not found', 'timeout 30.0')
+2022-06-24 15:18:34,063 - iPhone X - ERROR - <-- TestLogin.test_01_phone_login, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-24 15:18:35,283 - iPhone X - INFO - --> init.activate_app
+2022-06-24 15:18:36,759 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 15:18:36,760 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 15:18:36,760 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 15:18:38,369 - iPhone X - INFO - 检查app登录状态出错
+2022-06-24 15:18:38,369 - iPhone X - DEBUG - 
+--> TestLogin.test_02_logout
+2022-06-24 15:18:38,371 - iPhone X - INFO - --> Login.logout
+2022-06-24 15:18:38,371 - iPhone X - INFO - 退出登录
+2022-06-24 15:19:08,927 - iPhone X - ERROR - 	<-- Login.logout, Exception, ('element not found', 'timeout 30.0')
+2022-06-24 15:19:10,329 - iPhone X - ERROR - <-- TestLogin.test_02_logout, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-24 15:19:11,446 - iPhone X - INFO - 运行完关闭app
+2022-06-24 15:23:31,084 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 15:23:31,728 - iPhone X - INFO - --> init.activate_app
+2022-06-24 15:23:33,240 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 15:23:33,240 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 15:23:33,240 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 15:23:35,036 - iPhone X - DEBUG - 
+--> TestLogin.test_00_check_agreement
+2022-06-24 15:23:35,036 - iPhone X - INFO - --> Login.check_agreement_update_popup_window
+2022-06-24 15:23:35,036 - iPhone X - INFO - 检查登录页协议更新弹窗
+2022-06-24 15:23:40,334 - iPhone X - ERROR - 	<-- Login.check_agreement_update_popup_window, Exception, ('element not found', 'timeout 5.0')
+2022-06-24 15:23:41,736 - iPhone X - ERROR - <-- TestLogin.test_00_check_agreement, Exception, ('element not found', 'timeout 5.0')
+
+2022-06-24 15:23:42,851 - iPhone X - INFO - --> init.activate_app
+2022-06-24 15:23:44,326 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 15:23:44,326 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 15:23:44,326 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 15:23:46,102 - iPhone X - DEBUG - 
+--> TestLogin.test_01_phone_login
+2022-06-24 15:23:46,103 - iPhone X - INFO - --> Login.select_more_login_window
+2022-06-24 15:23:46,103 - iPhone X - INFO - 选择更多登录方式
+2022-06-24 15:23:48,173 - iPhone X - INFO - --> Login.select_phone_login
+2022-06-24 15:23:48,173 - iPhone X - INFO - 选择账号密码登录
+2022-06-24 15:23:50,314 - iPhone X - ERROR - 	<-- Login.select_phone_login, Exception, ('element not found', 'timeout 2.0')
+2022-06-24 15:23:51,731 - iPhone X - ERROR - <-- TestLogin.test_01_phone_login, Exception, ('element not found', 'timeout 2.0')
+
+2022-06-24 15:23:53,300 - iPhone X - INFO - --> init.activate_app
+2022-06-24 15:23:54,802 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 15:23:54,803 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 15:23:54,803 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 15:23:56,648 - iPhone X - DEBUG - 
+--> TestLogin.test_02_logout
+2022-06-24 15:23:56,648 - iPhone X - INFO - --> Login.logout
+2022-06-24 15:23:56,649 - iPhone X - INFO - 退出登录
+2022-06-24 15:24:26,945 - iPhone X - ERROR - 	<-- Login.logout, Exception, ('element not found', 'timeout 30.0')
+2022-06-24 15:24:29,042 - iPhone X - ERROR - <-- TestLogin.test_02_logout, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-24 15:24:30,408 - iPhone X - INFO - 运行完关闭app
+2022-06-24 15:52:56,194 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 15:52:56,869 - iPhone X - INFO - --> init.activate_app
+2022-06-24 15:52:58,367 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 15:52:58,367 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 15:52:58,367 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 15:53:00,125 - iPhone X - DEBUG - 
+--> TestLogin.test_00_check_agreement
+2022-06-24 15:53:00,125 - iPhone X - INFO - --> Login.check_agreement_update_popup_window
+2022-06-24 15:53:00,126 - iPhone X - INFO - 检查登录页协议更新弹窗
+2022-06-24 15:53:05,272 - iPhone X - ERROR - 	<-- Login.check_agreement_update_popup_window, Exception, ('element not found', 'timeout 5.0')
+2022-06-24 15:53:06,677 - iPhone X - ERROR - <-- TestLogin.test_00_check_agreement, Exception, ('element not found', 'timeout 5.0')
+
+2022-06-24 15:53:07,797 - iPhone X - INFO - --> init.activate_app
+2022-06-24 15:53:09,263 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 15:53:09,263 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 15:53:09,263 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 15:53:11,052 - iPhone X - DEBUG - 
+--> TestLogin.test_01_phone_login
+2022-06-24 15:53:11,052 - iPhone X - INFO - --> Login.select_more_login_window
+2022-06-24 15:53:11,052 - iPhone X - INFO - 选择更多登录方式
+2022-06-24 15:53:13,094 - iPhone X - INFO - --> Login.select_phone_login
+2022-06-24 15:53:13,094 - iPhone X - INFO - 选择手机号登录
+2022-06-24 15:53:15,466 - iPhone X - INFO - --> Login.select_phone_psw_login
+2022-06-24 15:53:15,466 - iPhone X - INFO - 选择账号密码登录
+2022-06-24 15:53:17,585 - iPhone X - ERROR - 	<-- Login.select_phone_psw_login, Exception, ('element not found', 'timeout 2.0')
+2022-06-24 15:53:19,009 - iPhone X - ERROR - <-- TestLogin.test_01_phone_login, Exception, ('element not found', 'timeout 2.0')
+
+2022-06-24 15:53:20,894 - iPhone X - INFO - --> init.activate_app
+2022-06-24 15:53:22,372 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 15:53:22,372 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 15:53:22,372 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 15:53:24,304 - iPhone X - DEBUG - 
+--> TestLogin.test_02_logout
+2022-06-24 15:53:24,304 - iPhone X - INFO - --> Login.logout
+2022-06-24 15:53:24,304 - iPhone X - INFO - 退出登录
+2022-06-24 15:53:54,425 - iPhone X - ERROR - 	<-- Login.logout, Exception, ('element not found', 'timeout 30.0')
+2022-06-24 15:53:55,848 - iPhone X - ERROR - <-- TestLogin.test_02_logout, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-24 15:53:56,980 - iPhone X - INFO - 运行完关闭app
+2022-06-24 15:55:33,722 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 15:55:34,413 - iPhone X - INFO - --> init.activate_app
+2022-06-24 15:55:35,946 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 15:55:35,946 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 15:55:35,946 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 15:55:37,839 - iPhone X - DEBUG - 
+--> TestLogin.test_00_check_agreement
+2022-06-24 15:55:37,840 - iPhone X - INFO - --> Login.check_agreement_update_popup_window
+2022-06-24 15:55:37,840 - iPhone X - INFO - 检查登录页协议更新弹窗
+2022-06-24 15:55:43,276 - iPhone X - ERROR - 	<-- Login.check_agreement_update_popup_window, Exception, ('element not found', 'timeout 5.0')
+2022-06-24 15:55:44,697 - iPhone X - ERROR - <-- TestLogin.test_00_check_agreement, Exception, ('element not found', 'timeout 5.0')
+
+2022-06-24 15:55:45,916 - iPhone X - INFO - 运行完关闭app
+2022-06-24 15:55:45,926 - iPhone X - INFO - --> init.activate_app
+2022-06-24 15:55:47,411 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 15:55:47,411 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 15:55:47,411 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 15:55:49,313 - iPhone X - DEBUG - 
+--> TestLogin.test_01_phone_login
+2022-06-24 15:55:49,314 - iPhone X - INFO - --> Login.select_more_login_window
+2022-06-24 15:55:49,314 - iPhone X - INFO - 选择更多登录方式
+2022-06-24 15:55:51,709 - iPhone X - INFO - --> Login.select_phone_login
+2022-06-24 15:55:51,710 - iPhone X - INFO - 选择手机号登录
+2022-06-24 15:55:53,880 - iPhone X - INFO - --> Login.select_agreement_box_window
+2022-06-24 15:55:53,880 - iPhone X - INFO - 在更多登录方式抽屉中 勾选已阅读并同意协议
+2022-06-24 15:56:24,478 - iPhone X - ERROR - 	<-- Login.select_agreement_box_window, Exception, ('element not found', 'timeout 30.0')
+2022-06-24 15:56:25,917 - iPhone X - ERROR - <-- TestLogin.test_01_phone_login, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-24 15:56:27,621 - iPhone X - INFO - 运行完关闭app
+2022-06-24 15:56:27,626 - iPhone X - INFO - --> init.activate_app
+2022-06-24 15:56:30,464 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 15:56:30,464 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 15:56:30,464 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 15:56:32,402 - iPhone X - DEBUG - 
+--> TestLogin.test_02_logout
+2022-06-24 15:56:32,402 - iPhone X - INFO - --> Login.logout
+2022-06-24 15:56:32,402 - iPhone X - INFO - 退出登录
+2022-06-24 15:57:02,983 - iPhone X - ERROR - 	<-- Login.logout, Exception, ('element not found', 'timeout 30.0')
+2022-06-24 15:57:04,403 - iPhone X - ERROR - <-- TestLogin.test_02_logout, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-24 15:57:05,675 - iPhone X - INFO - 运行完关闭app
+2022-06-24 15:59:31,167 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 15:59:32,110 - iPhone X - INFO - --> init.activate_app
+2022-06-24 15:59:33,598 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 15:59:33,598 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 15:59:33,598 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 15:59:35,459 - iPhone X - DEBUG - 
+--> TestLogin.test_00_check_agreement
+2022-06-24 15:59:35,459 - iPhone X - DEBUG - <-- TestLogin.test_00_check_agreement, Success
+2022-06-24 15:59:36,123 - iPhone X - INFO - 运行完关闭app
+2022-06-24 15:59:36,204 - iPhone X - INFO - --> init.activate_app
+2022-06-24 15:59:37,666 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 15:59:37,666 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 15:59:37,666 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 15:59:39,520 - iPhone X - DEBUG - 
+--> TestLogin.test_01_phone_login
+2022-06-24 15:59:39,521 - iPhone X - INFO - --> Login.select_more_login_window
+2022-06-24 15:59:39,521 - iPhone X - INFO - 选择更多登录方式
+2022-06-24 15:59:41,741 - iPhone X - INFO - --> Login.select_phone_login
+2022-06-24 15:59:41,742 - iPhone X - INFO - 选择手机号登录
+2022-06-24 15:59:44,147 - iPhone X - INFO - --> Login.select_agreement_box_window
+2022-06-24 15:59:44,147 - iPhone X - INFO - 在更多登录方式抽屉中 勾选已阅读并同意协议
+2022-06-24 16:00:14,732 - iPhone X - ERROR - 	<-- Login.select_agreement_box_window, Exception, ('element not found', 'timeout 30.0')
+2022-06-24 16:00:16,106 - iPhone X - ERROR - <-- TestLogin.test_01_phone_login, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-24 16:00:17,833 - iPhone X - INFO - 运行完关闭app
+2022-06-24 16:00:17,837 - iPhone X - INFO - --> init.activate_app
+2022-06-24 16:00:19,276 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 16:00:19,276 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 16:00:19,276 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 16:00:20,973 - iPhone X - INFO - 检查app登录状态出错
+2022-06-24 16:00:20,974 - iPhone X - DEBUG - 
+--> TestLogin.test_02_logout
+2022-06-24 16:00:20,974 - iPhone X - INFO - --> Login.logout
+2022-06-24 16:00:20,974 - iPhone X - INFO - 退出登录
+2022-06-24 16:00:51,125 - iPhone X - ERROR - 	<-- Login.logout, Exception, ('element not found', 'timeout 30.0')
+2022-06-24 16:00:52,570 - iPhone X - ERROR - <-- TestLogin.test_02_logout, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-24 16:00:53,579 - iPhone X - INFO - 运行完关闭app
+2022-06-24 16:02:01,423 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 16:02:02,453 - iPhone X - INFO - --> init.activate_app
+2022-06-24 16:02:03,911 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 16:02:03,912 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 16:02:03,913 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 16:02:05,627 - iPhone X - DEBUG - 
+--> TestLogin.test_00_check_agreement
+2022-06-24 16:02:05,627 - iPhone X - DEBUG - <-- TestLogin.test_00_check_agreement, Success
+2022-06-24 16:02:06,277 - iPhone X - INFO - 运行完关闭app
+2022-06-24 16:02:06,358 - iPhone X - INFO - --> init.activate_app
+2022-06-24 16:02:07,823 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 16:02:07,823 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 16:02:07,824 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 16:02:09,552 - iPhone X - DEBUG - 
+--> TestLogin.test_01_phone_login
+2022-06-24 16:02:09,552 - iPhone X - INFO - --> Login.select_more_login_window
+2022-06-24 16:02:09,552 - iPhone X - INFO - 选择更多登录方式
+2022-06-24 16:02:11,556 - iPhone X - INFO - --> Login.select_agreement_box_window
+2022-06-24 16:02:11,556 - iPhone X - INFO - 在更多登录方式抽屉中 勾选已阅读并同意协议
+2022-06-24 16:02:13,834 - iPhone X - INFO - --> Login.select_phone_login
+2022-06-24 16:02:13,835 - iPhone X - INFO - 选择手机号登录
+2022-06-24 16:02:17,085 - iPhone X - INFO - --> Login.select_phone_psw_login
+2022-06-24 16:02:17,085 - iPhone X - INFO - 选择账号密码登录
+2022-06-24 16:02:19,265 - iPhone X - INFO - --> Login.select_phone_password
+2022-06-24 16:02:19,265 - iPhone X - INFO - 输入手机号，密码 , 登录账号
+2022-06-24 16:02:26,533 - iPhone X - INFO - --> Login.check_login_status
+2022-06-24 16:02:26,534 - iPhone X - INFO - 根据动态tab和我-编辑按钮，检查是否登录账号
+2022-06-24 16:02:26,632 - iPhone X - ERROR - 	<-- Login.check_login_status, Exception, 未检查到动态tab
+2022-06-24 16:02:27,986 - iPhone X - ERROR - <-- TestLogin.test_01_phone_login, Exception, 未检查到动态tab
+
+2022-06-24 16:02:30,624 - iPhone X - INFO - 运行完关闭app
+2022-06-24 16:02:30,628 - iPhone X - INFO - --> init.activate_app
+2022-06-24 16:02:32,168 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 16:02:32,169 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 16:02:32,169 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 16:02:34,282 - iPhone X - INFO - --> Login.logout
+2022-06-24 16:02:34,283 - iPhone X - INFO - 退出登录
+2022-06-24 16:02:44,616 - iPhone X - DEBUG - 
+--> TestLogin.test_02_logout
+2022-06-24 16:02:44,616 - iPhone X - INFO - --> Login.logout
+2022-06-24 16:02:44,616 - iPhone X - INFO - 退出登录
+2022-06-24 16:03:14,910 - iPhone X - ERROR - 	<-- Login.logout, Exception, ('element not found', 'timeout 30.0')
+2022-06-24 16:03:16,378 - iPhone X - ERROR - <-- TestLogin.test_02_logout, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-24 16:03:18,224 - iPhone X - INFO - 运行完关闭app
+2022-06-24 16:04:19,416 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 16:04:20,140 - iPhone X - INFO - --> init.activate_app
+2022-06-24 16:04:21,721 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 16:04:21,722 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 16:04:21,722 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 16:04:23,695 - iPhone X - DEBUG - 
+--> TestLogin.test_00_check_agreement
+2022-06-24 16:04:23,695 - iPhone X - INFO - --> Login.check_agreement_update_popup_window
+2022-06-24 16:04:23,695 - iPhone X - INFO - 检查登录页协议更新弹窗
+2022-06-24 16:04:25,488 - iPhone X - INFO - --> Login.select_agreement_update_disagree
+2022-06-24 16:04:25,489 - iPhone X - INFO - 选择不同意并退出
+2022-06-24 16:04:28,596 - iPhone X - INFO - --> Login.check_agreement_update_popup_window
+2022-06-24 16:04:28,596 - iPhone X - INFO - 检查登录页协议更新弹窗
+2022-06-24 16:04:30,335 - iPhone X - INFO - --> Login.select_agreement_update_agree
+2022-06-24 16:04:30,335 - iPhone X - INFO - 选择同意协议
+2022-06-24 16:04:32,629 - iPhone X - DEBUG - <-- TestLogin.test_00_check_agreement, Success
+2022-06-24 16:04:34,859 - iPhone X - INFO - 运行完关闭app
+2022-06-24 16:04:34,960 - iPhone X - INFO - --> init.activate_app
+2022-06-24 16:04:36,428 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 16:04:36,429 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 16:04:36,429 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 16:04:38,159 - iPhone X - DEBUG - 
+--> TestLogin.test_01_phone_login
+2022-06-24 16:04:38,160 - iPhone X - INFO - --> Login.select_more_login_window
+2022-06-24 16:04:38,160 - iPhone X - INFO - 选择更多登录方式
+2022-06-24 16:04:40,182 - iPhone X - INFO - --> Login.select_agreement_box_window
+2022-06-24 16:04:40,182 - iPhone X - INFO - 在更多登录方式抽屉中 勾选已阅读并同意协议
+2022-06-24 16:04:42,534 - iPhone X - INFO - --> Login.select_phone_login
+2022-06-24 16:04:42,535 - iPhone X - INFO - 选择手机号登录
+2022-06-24 16:04:45,899 - iPhone X - INFO - --> Login.select_phone_psw_login
+2022-06-24 16:04:45,900 - iPhone X - INFO - 选择账号密码登录
+2022-06-24 16:04:48,111 - iPhone X - INFO - --> Login.select_phone_password
+2022-06-24 16:04:48,111 - iPhone X - INFO - 输入手机号，密码 , 登录账号
+2022-06-24 16:04:57,918 - iPhone X - INFO - --> Login.check_login_status
+2022-06-24 16:04:57,918 - iPhone X - INFO - 根据动态tab和我-编辑按钮，检查是否登录账号
+2022-06-24 16:05:01,733 - iPhone X - DEBUG - <-- TestLogin.test_01_phone_login, Success
+2022-06-24 16:05:04,623 - iPhone X - INFO - 运行完关闭app
+2022-06-24 16:05:04,630 - iPhone X - INFO - --> init.activate_app
+2022-06-24 16:05:06,645 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 16:05:06,645 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 16:05:06,645 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 16:05:09,191 - iPhone X - INFO - --> Login.logout
+2022-06-24 16:05:09,191 - iPhone X - INFO - 退出登录
+2022-06-24 16:05:19,960 - iPhone X - DEBUG - 
+--> TestLogin.test_02_logout
+2022-06-24 16:05:19,960 - iPhone X - INFO - --> Login.logout
+2022-06-24 16:05:19,960 - iPhone X - INFO - 退出登录
+2022-06-24 16:05:50,310 - iPhone X - ERROR - 	<-- Login.logout, Exception, ('element not found', 'timeout 30.0')
+2022-06-24 16:05:51,807 - iPhone X - ERROR - <-- TestLogin.test_02_logout, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-24 16:05:53,594 - iPhone X - INFO - 运行完关闭app
+2022-06-24 16:08:55,428 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 16:08:56,221 - iPhone X - INFO - --> init.activate_app
+2022-06-24 16:08:57,800 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 16:08:57,800 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 16:08:57,800 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 16:08:59,740 - iPhone X - DEBUG - 
+--> TestLogin.test_00_check_agreement
+2022-06-24 16:08:59,740 - iPhone X - INFO - --> Login.check_agreement_update_popup_window
+2022-06-24 16:08:59,741 - iPhone X - INFO - 检查登录页协议更新弹窗
+2022-06-24 16:09:01,552 - iPhone X - INFO - --> Login.select_agreement_update_disagree
+2022-06-24 16:09:01,552 - iPhone X - INFO - 选择不同意并退出
+2022-06-24 16:09:04,797 - iPhone X - INFO - --> Login.check_agreement_update_popup_window
+2022-06-24 16:09:04,797 - iPhone X - INFO - 检查登录页协议更新弹窗
+2022-06-24 16:09:06,569 - iPhone X - INFO - --> Login.select_agreement_update_agree
+2022-06-24 16:09:06,569 - iPhone X - INFO - 选择同意协议
+2022-06-24 16:09:08,834 - iPhone X - DEBUG - <-- TestLogin.test_00_check_agreement, Success
+2022-06-24 16:09:11,024 - iPhone X - INFO - 运行完关闭app
+2022-06-24 16:09:11,024 - iPhone X - INFO - --> init.terminate_app
+2022-06-24 16:09:13,972 - iPhone X - INFO - --> init.activate_app
+2022-06-24 16:09:16,615 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 16:09:16,615 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 16:09:16,615 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 16:09:18,343 - iPhone X - DEBUG - 
+--> TestLogin.test_01_phone_login
+2022-06-24 16:09:18,344 - iPhone X - INFO - --> Login.select_more_login_window
+2022-06-24 16:09:18,344 - iPhone X - INFO - 选择更多登录方式
+2022-06-24 16:09:20,355 - iPhone X - INFO - --> Login.select_agreement_box_window
+2022-06-24 16:09:20,356 - iPhone X - INFO - 在更多登录方式抽屉中 勾选已阅读并同意协议
+2022-06-24 16:09:22,710 - iPhone X - INFO - --> Login.select_phone_login
+2022-06-24 16:09:22,711 - iPhone X - INFO - 选择手机号登录
+2022-06-24 16:09:25,964 - iPhone X - INFO - --> Login.select_phone_psw_login
+2022-06-24 16:09:25,965 - iPhone X - INFO - 选择账号密码登录
+2022-06-24 16:09:28,125 - iPhone X - INFO - --> Login.select_phone_password
+2022-06-24 16:09:28,125 - iPhone X - INFO - 输入手机号，密码 , 登录账号
+2022-06-24 16:09:37,446 - iPhone X - INFO - --> Login.check_login_status
+2022-06-24 16:09:37,447 - iPhone X - INFO - 根据动态tab和我-编辑按钮，检查是否登录账号
+2022-06-24 16:09:41,691 - iPhone X - DEBUG - <-- TestLogin.test_01_phone_login, Success
+2022-06-24 16:09:45,154 - iPhone X - INFO - 运行完关闭app
+2022-06-24 16:09:45,154 - iPhone X - INFO - --> init.terminate_app
+2022-06-24 16:09:48,061 - iPhone X - INFO - --> init.activate_app
+2022-06-24 16:09:50,742 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-24 16:09:50,743 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 16:09:50,743 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 16:09:52,893 - iPhone X - INFO - --> Login.logout
+2022-06-24 16:09:52,893 - iPhone X - INFO - 退出登录
+2022-06-24 16:10:02,008 - iPhone X - DEBUG - 
+--> TestLogin.test_02_logout
+2022-06-24 16:10:02,009 - iPhone X - INFO - --> Login.logout
+2022-06-24 16:10:02,009 - iPhone X - INFO - 退出登录
+2022-06-24 16:10:32,280 - iPhone X - ERROR - 	<-- Login.logout, Exception, ('element not found', 'timeout 30.0')
+2022-06-24 16:10:33,771 - iPhone X - ERROR - <-- TestLogin.test_02_logout, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-24 16:10:36,156 - iPhone X - INFO - 运行完关闭app
+2022-06-24 16:10:36,156 - iPhone X - INFO - --> init.terminate_app
+2022-06-24 16:27:15,447 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 16:28:11,242 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 16:28:11,994 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 16:28:11,994 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 16:28:14,640 - iPhone X - DEBUG - 
+--> TestMine.test_00_check_mine
+2022-06-24 16:28:14,649 - iPhone X - INFO - --> init.click_my_tab
+2022-06-24 16:28:14,649 - iPhone X - ERROR - 	<-- init.click_my_tab, Exception, click_my_tab() missing 1 required positional argument: 'self'
+2022-06-24 16:28:16,475 - iPhone X - ERROR - <-- TestMine.test_00_check_mine, Exception, click_my_tab() missing 1 required positional argument: 'self'
+
+2022-06-24 16:28:18,424 - iPhone X - DEBUG - 
+--> TestMine.test_01_edit_account_introduce
+2022-06-24 16:28:18,424 - iPhone X - INFO - --> init.click_my_tab
+2022-06-24 16:28:18,424 - iPhone X - ERROR - 	<-- init.click_my_tab, Exception, click_my_tab() missing 1 required positional argument: 'self'
+2022-06-24 16:28:20,277 - iPhone X - ERROR - <-- TestMine.test_01_edit_account_introduce, Exception, click_my_tab() missing 1 required positional argument: 'self'
+
+2022-06-24 16:28:20,931 - iPhone X - DEBUG - 
+--> TestMine.test_01_edit_account_gender
+2022-06-24 16:28:20,931 - iPhone X - INFO - --> init.click_my_tab
+2022-06-24 16:28:20,932 - iPhone X - ERROR - 	<-- init.click_my_tab, Exception, click_my_tab() missing 1 required positional argument: 'self'
+2022-06-24 16:28:22,780 - iPhone X - ERROR - <-- TestMine.test_01_edit_account_gender, Exception, click_my_tab() missing 1 required positional argument: 'self'
+
+2022-06-24 16:28:23,438 - iPhone X - DEBUG - 
+--> TestMine.test_01_edit_account_jellow
+2022-06-24 16:28:23,438 - iPhone X - INFO - --> init.click_my_tab
+2022-06-24 16:28:23,438 - iPhone X - ERROR - 	<-- init.click_my_tab, Exception, click_my_tab() missing 1 required positional argument: 'self'
+2022-06-24 16:28:25,259 - iPhone X - ERROR - <-- TestMine.test_01_edit_account_jellow, Exception, click_my_tab() missing 1 required positional argument: 'self'
+
+2022-06-24 16:29:48,683 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 16:29:49,445 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 16:29:49,445 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 16:29:52,070 - iPhone X - DEBUG - 
+--> TestMine.test_00_check_mine
+2022-06-24 16:29:52,070 - iPhone X - INFO - --> init.click_my_tab
+2022-06-24 16:29:55,759 - iPhone X - INFO - --> mine.check_mine_status
+2022-06-24 16:29:55,759 - iPhone X - INFO - 判断主客态个人页
+2022-06-24 16:29:58,054 - iPhone X - INFO - --> mine.check_page_element
+2022-06-24 16:29:58,054 - iPhone X - INFO - 检查我的页面元素
+2022-06-24 16:30:02,946 - iPhone X - DEBUG - <-- TestMine.test_00_check_mine, Success
+2022-06-24 16:30:05,180 - iPhone X - DEBUG - 
+--> TestMine.test_01_edit_account_introduce
+2022-06-24 16:30:05,180 - iPhone X - INFO - --> init.click_my_tab
+2022-06-24 16:30:08,653 - iPhone X - INFO - --> mine.click_edit
+2022-06-24 16:30:08,654 - iPhone X - INFO - 进入编辑个人信息页面
+2022-06-24 16:30:11,892 - iPhone X - INFO - --> mine.edit_introduce
+2022-06-24 16:30:11,892 - iPhone X - INFO - 修改个性签名为auto_test_account
+2022-06-24 16:30:42,562 - iPhone X - ERROR - 	<-- mine.edit_introduce, Exception, ('element not found', 'timeout 30.0')
+2022-06-24 16:30:44,142 - iPhone X - ERROR - <-- TestMine.test_01_edit_account_introduce, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-24 16:30:45,788 - iPhone X - DEBUG - 
+--> TestMine.test_01_edit_account_gender
+2022-06-24 16:30:45,788 - iPhone X - INFO - --> init.click_my_tab
+2022-06-24 16:30:53,931 - iPhone X - INFO - --> mine.click_edit
+2022-06-24 16:30:53,932 - iPhone X - INFO - 进入编辑个人信息页面
+2022-06-24 16:31:02,369 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 16:31:03,153 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 16:31:03,153 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 16:31:05,650 - iPhone X - DEBUG - 
+--> TestMine.test_00_check_mine
+2022-06-24 16:31:05,650 - iPhone X - INFO - --> init.click_my_tab
+2022-06-24 16:31:09,081 - iPhone X - INFO - --> mine.check_mine_status
+2022-06-24 16:31:09,081 - iPhone X - INFO - 判断主客态个人页
+2022-06-24 16:31:11,389 - iPhone X - INFO - --> mine.check_page_element
+2022-06-24 16:31:11,389 - iPhone X - INFO - 检查我的页面元素
+2022-06-24 16:31:16,373 - iPhone X - DEBUG - <-- TestMine.test_00_check_mine, Success
+2022-06-24 16:31:18,950 - iPhone X - DEBUG - 
+--> TestMine.test_01_edit_account_introduce
+2022-06-24 16:31:18,951 - iPhone X - INFO - --> init.click_my_tab
+2022-06-24 16:31:22,409 - iPhone X - INFO - --> mine.click_edit
+2022-06-24 16:31:22,409 - iPhone X - INFO - 进入编辑个人信息页面
+2022-06-24 16:31:25,698 - iPhone X - INFO - --> mine.edit_introduce
+2022-06-24 16:31:25,698 - iPhone X - INFO - 修改个性签名为auto_test_account
+2022-06-24 16:32:01,230 - iPhone X - ERROR - 	<-- mine.edit_introduce, Exception, ('element not found', 'timeout 30.0')
+2022-06-24 16:32:02,659 - iPhone X - ERROR - <-- TestMine.test_01_edit_account_introduce, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-24 16:32:04,147 - iPhone X - DEBUG - 
+--> TestMine.test_01_edit_account_gender
+2022-06-24 16:32:04,147 - iPhone X - INFO - --> init.click_my_tab
+2022-06-24 16:32:34,756 - iPhone X - ERROR - 	<-- init.click_my_tab, Exception, ('element not found', 'timeout 30.0')
+2022-06-24 16:32:36,329 - iPhone X - ERROR - <-- TestMine.test_01_edit_account_gender, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-24 16:32:36,863 - iPhone X - DEBUG - 
+--> TestMine.test_01_edit_account_jellow
+2022-06-24 16:32:36,863 - iPhone X - INFO - --> init.click_my_tab
+2022-06-24 16:33:08,364 - iPhone X - INFO - --> mine.click_edit
+2022-06-24 16:33:08,364 - iPhone X - INFO - 进入编辑个人信息页面
+2022-06-24 16:33:11,604 - iPhone X - INFO - --> mine.select_jellow_icon
+2022-06-24 16:33:11,605 - iPhone X - INFO - 修改会员标识
+2022-06-24 16:33:14,949 - iPhone X - INFO - --> mine.set_jellow_icon
+2022-06-24 16:33:14,949 - iPhone X - INFO - 选择不展示会员标识
+2022-06-24 16:33:17,481 - iPhone X - INFO - --> mine.edit_back_button
+2022-06-24 16:33:17,481 - iPhone X - INFO - 点击二级页面的返回按钮
+2022-06-24 16:33:20,328 - iPhone X - DEBUG - <-- TestMine.test_01_edit_account_jellow, Success
+2022-06-24 16:36:55,570 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 16:36:56,452 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 16:36:56,452 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 16:36:58,936 - iPhone X - DEBUG - 
+--> TestMine.test_00_check_mine
+2022-06-24 16:36:58,936 - iPhone X - INFO - --> init.click_my_tab
+2022-06-24 16:37:02,357 - iPhone X - INFO - --> mine.check_mine_status
+2022-06-24 16:37:02,358 - iPhone X - INFO - 判断主客态个人页
+2022-06-24 16:37:04,663 - iPhone X - INFO - --> mine.check_page_element
+2022-06-24 16:37:04,664 - iPhone X - INFO - 检查我的页面元素
+2022-06-24 16:37:09,640 - iPhone X - DEBUG - <-- TestMine.test_00_check_mine, Success
+2022-06-24 16:37:11,880 - iPhone X - DEBUG - 
+--> TestMine.test_01_edit_account_introduce
+2022-06-24 16:37:11,881 - iPhone X - INFO - --> init.click_my_tab
+2022-06-24 16:37:15,342 - iPhone X - INFO - --> mine.click_edit
+2022-06-24 16:37:15,353 - iPhone X - INFO - 进入编辑个人信息页面
+2022-06-24 16:37:18,639 - iPhone X - INFO - --> mine.edit_introduce
+2022-06-24 16:37:18,639 - iPhone X - INFO - 修改个性签名为auto_test_account
+2022-06-24 16:37:56,279 - iPhone X - ERROR - 	<-- mine.edit_introduce, Exception, ('element not found', 'timeout 30.0')
+2022-06-24 16:37:57,720 - iPhone X - ERROR - <-- TestMine.test_01_edit_account_introduce, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-24 16:37:59,275 - iPhone X - DEBUG - 
+--> TestMine.test_01_edit_account_gender
+2022-06-24 16:37:59,275 - iPhone X - INFO - --> mine.select_edit_gender
+2022-06-24 16:37:59,275 - iPhone X - INFO - 选择性别
+2022-06-24 16:38:29,291 - iPhone X - ERROR - 	<-- mine.select_edit_gender, Exception, ('element not found', 'timeout 30.0')
+2022-06-24 16:38:30,735 - iPhone X - ERROR - <-- TestMine.test_01_edit_account_gender, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-24 16:38:31,147 - iPhone X - DEBUG - 
+--> TestMine.test_01_edit_account_jellow
+2022-06-24 16:38:31,148 - iPhone X - INFO - --> mine.select_jellow_icon
+2022-06-24 16:38:31,148 - iPhone X - INFO - 修改会员标识
+2022-06-24 16:39:03,583 - iPhone X - INFO - --> mine.set_jellow_icon
+2022-06-24 16:39:03,584 - iPhone X - INFO - 选择不展示会员标识
+2022-06-24 16:39:06,128 - iPhone X - INFO - --> mine.edit_back_button
+2022-06-24 16:39:06,128 - iPhone X - INFO - 点击二级页面的返回按钮
+2022-06-24 16:39:09,014 - iPhone X - DEBUG - <-- TestMine.test_01_edit_account_jellow, Success
+2022-06-24 16:41:33,452 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 16:41:34,314 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 16:41:34,314 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 16:41:36,425 - iPhone X - DEBUG - 
+--> TestMine.test_00_check_mine
+2022-06-24 16:41:36,425 - iPhone X - INFO - --> init.click_my_tab
+2022-06-24 16:41:41,893 - iPhone X - INFO - --> mine.check_mine_status
+2022-06-24 16:41:41,894 - iPhone X - INFO - 判断主客态个人页
+2022-06-24 16:41:44,206 - iPhone X - INFO - --> mine.check_page_element
+2022-06-24 16:41:44,206 - iPhone X - INFO - 检查我的页面元素
+2022-06-24 16:41:49,165 - iPhone X - DEBUG - <-- TestMine.test_00_check_mine, Success
+2022-06-24 16:41:51,141 - iPhone X - DEBUG - 
+--> TestMine.test_01_edit_account_introduce
+2022-06-24 16:41:51,141 - iPhone X - INFO - --> init.click_my_tab
+2022-06-24 16:41:54,534 - iPhone X - INFO - --> mine.click_edit
+2022-06-24 16:41:54,534 - iPhone X - INFO - 进入编辑个人信息页面
+2022-06-24 16:41:57,811 - iPhone X - INFO - --> mine.edit_introduce
+2022-06-24 16:41:57,811 - iPhone X - INFO - 修改个性签名为auto_test_account
+2022-06-24 16:42:39,778 - iPhone X - INFO - --> mine.edit_back_button
+2022-06-24 16:42:39,779 - iPhone X - INFO - 点击二级页面的返回按钮
+2022-06-24 16:42:42,817 - iPhone X - DEBUG - <-- TestMine.test_01_edit_account_introduce, Success
+2022-06-24 16:42:44,711 - iPhone X - DEBUG - 
+--> TestMine.test_01_edit_account_gender
+2022-06-24 16:42:44,712 - iPhone X - INFO - --> mine.select_edit_gender
+2022-06-24 16:42:44,712 - iPhone X - INFO - 选择性别
+2022-06-24 16:42:53,183 - iPhone X - INFO - --> mine.set_gender_man
+2022-06-24 16:42:53,184 - iPhone X - INFO - 选择性别男
+2022-06-24 16:42:55,729 - iPhone X - INFO - --> mine.edit_back_button
+2022-06-24 16:42:55,729 - iPhone X - INFO - 点击二级页面的返回按钮
+2022-06-24 16:42:58,616 - iPhone X - DEBUG - <-- TestMine.test_01_edit_account_gender, Success
+2022-06-24 16:42:59,982 - iPhone X - DEBUG - 
+--> TestMine.test_01_edit_account_jellow
+2022-06-24 16:42:59,983 - iPhone X - INFO - --> mine.select_jellow_icon
+2022-06-24 16:42:59,983 - iPhone X - INFO - 修改会员标识
+2022-06-24 16:43:03,287 - iPhone X - INFO - --> mine.set_jellow_icon
+2022-06-24 16:43:03,287 - iPhone X - INFO - 选择不展示会员标识
+2022-06-24 16:43:05,799 - iPhone X - INFO - --> mine.edit_back_button
+2022-06-24 16:43:05,799 - iPhone X - INFO - 点击二级页面的返回按钮
+2022-06-24 16:43:08,677 - iPhone X - DEBUG - <-- TestMine.test_01_edit_account_jellow, Success
+2022-06-24 17:18:58,876 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-24 17:18:59,871 - iPhone X - INFO - --> init.check_login_status
+2022-06-24 17:18:59,871 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-24 17:19:02,232 - iPhone X - DEBUG - 
+--> TestMine.test_00_check_mine
+2022-06-24 17:19:02,233 - iPhone X - INFO - --> init.click_my_tab
+2022-06-24 17:19:05,447 - iPhone X - INFO - --> mine.check_mine_status
+2022-06-24 17:19:05,448 - iPhone X - INFO - 判断主客态个人页
+2022-06-24 17:19:07,589 - iPhone X - INFO - --> mine.check_page_element
+2022-06-24 17:19:07,589 - iPhone X - INFO - 检查我的页面元素
+2022-06-24 17:19:12,463 - iPhone X - DEBUG - <-- TestMine.test_00_check_mine, Success
+2022-06-24 17:19:14,305 - iPhone X - DEBUG - 
+--> TestMine.test_01_edit_account_introduce
+2022-06-24 17:19:14,306 - iPhone X - INFO - --> init.click_my_tab
+2022-06-24 17:19:17,557 - iPhone X - INFO - --> mine.click_edit
+2022-06-24 17:19:17,557 - iPhone X - INFO - 进入编辑个人信息页面
+2022-06-24 17:19:20,803 - iPhone X - INFO - --> mine.edit_introduce
+2022-06-24 17:19:20,803 - iPhone X - INFO - 修改个性签名为auto_test_account
+2022-06-24 17:19:54,669 - iPhone X - INFO - --> mine.edit_back_button
+2022-06-24 17:19:54,669 - iPhone X - INFO - 点击二级页面的返回按钮
+2022-06-24 17:19:57,583 - iPhone X - DEBUG - <-- TestMine.test_01_edit_account_introduce, Success
+2022-06-24 17:19:59,248 - iPhone X - DEBUG - 
+--> TestMine.test_01_edit_account_gender
+2022-06-24 17:19:59,249 - iPhone X - INFO - --> mine.click_edit
+2022-06-24 17:19:59,249 - iPhone X - INFO - 进入编辑个人信息页面
+2022-06-24 17:20:02,391 - iPhone X - INFO - --> mine.select_edit_gender
+2022-06-24 17:20:02,391 - iPhone X - INFO - 选择性别
+2022-06-24 17:20:04,964 - iPhone X - INFO - --> mine.set_gender_man
+2022-06-24 17:20:04,964 - iPhone X - INFO - 选择性别男
+2022-06-24 17:20:07,480 - iPhone X - INFO - --> mine.edit_back_button
+2022-06-24 17:20:07,480 - iPhone X - INFO - 点击二级页面的返回按钮
+2022-06-24 17:20:10,200 - iPhone X - DEBUG - <-- TestMine.test_01_edit_account_gender, Success
+2022-06-24 17:20:11,814 - iPhone X - DEBUG - 
+--> TestMine.test_01_edit_account_jellow
+2022-06-24 17:20:11,814 - iPhone X - INFO - --> mine.click_edit
+2022-06-24 17:20:11,814 - iPhone X - INFO - 进入编辑个人信息页面
+2022-06-24 17:20:15,021 - iPhone X - INFO - --> mine.select_jellow_icon
+2022-06-24 17:20:15,022 - iPhone X - INFO - 修改会员标识
+2022-06-24 17:20:45,122 - iPhone X - ERROR - 	<-- mine.select_jellow_icon, Exception, ('element not found', 'timeout 30.0')
+2022-06-24 17:20:46,664 - iPhone X - ERROR - <-- TestMine.test_01_edit_account_jellow, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-27 11:02:35,822 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-27 11:02:37,119 - iPhone X - INFO - --> init.check_login_status
+2022-06-27 11:02:37,120 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-27 11:02:38,999 - iPhone X - DEBUG - 
+--> TestMine.test_00_check_mine
+2022-06-27 11:02:38,999 - iPhone X - INFO - --> init.click_my_tab
+2022-06-27 11:03:09,108 - iPhone X - ERROR - 	<-- init.click_my_tab, Exception, ('element not found', 'timeout 30.0')
+2022-06-27 11:03:10,649 - iPhone X - ERROR - <-- TestMine.test_00_check_mine, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-27 11:03:11,571 - iPhone X - DEBUG - 
+--> TestMine.test_01_edit_account_introduce
+2022-06-27 11:03:11,571 - iPhone X - INFO - --> init.click_my_tab
+2022-06-27 11:03:39,199 - iPhone X - INFO - --> mine.click_edit
+2022-06-27 11:03:39,199 - iPhone X - INFO - 进入编辑个人信息页面
+2022-06-27 11:03:42,354 - iPhone X - INFO - --> mine.edit_introduce
+2022-06-27 11:03:42,355 - iPhone X - INFO - 修改个性签名为auto_test_account
+2022-06-27 11:04:24,007 - iPhone X - INFO - --> mine.edit_back_button
+2022-06-27 11:04:24,007 - iPhone X - INFO - 点击二级页面的返回按钮
+2022-06-27 11:04:26,997 - iPhone X - DEBUG - <-- TestMine.test_01_edit_account_introduce, Success
+2022-06-27 11:04:28,786 - iPhone X - DEBUG - 
+--> TestMine.test_01_edit_account_gender
+2022-06-27 11:04:28,786 - iPhone X - INFO - --> mine.click_edit
+2022-06-27 11:04:28,786 - iPhone X - INFO - 进入编辑个人信息页面
+2022-06-27 11:04:32,094 - iPhone X - INFO - --> mine.select_edit_gender
+2022-06-27 11:04:32,094 - iPhone X - INFO - 选择性别
+2022-06-27 11:04:34,551 - iPhone X - INFO - --> mine.set_gender_man
+2022-06-27 11:04:34,551 - iPhone X - INFO - 选择性别男
+2022-06-27 11:04:36,960 - iPhone X - INFO - --> mine.edit_back_button
+2022-06-27 11:04:36,960 - iPhone X - INFO - 点击二级页面的返回按钮
+2022-06-27 11:04:39,621 - iPhone X - DEBUG - <-- TestMine.test_01_edit_account_gender, Success
+2022-06-27 11:04:41,291 - iPhone X - DEBUG - 
+--> TestMine.test_01_edit_account_jellow
+2022-06-27 11:04:41,292 - iPhone X - INFO - --> mine.click_edit
+2022-06-27 11:04:41,292 - iPhone X - INFO - 进入编辑个人信息页面
+2022-06-27 11:04:44,514 - iPhone X - INFO - --> mine.select_jellow_icon
+2022-06-27 11:04:44,514 - iPhone X - INFO - 修改会员标识
+2022-06-27 11:05:14,582 - iPhone X - ERROR - 	<-- mine.select_jellow_icon, Exception, ('element not found', 'timeout 30.0')
+2022-06-27 11:05:16,120 - iPhone X - ERROR - <-- TestMine.test_01_edit_account_jellow, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-27 14:51:34,451 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-27 14:51:35,529 - iPhone X - INFO - --> init.check_login_status
+2022-06-27 14:51:35,529 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-27 14:51:37,736 - iPhone X - DEBUG - 
+--> TestMine.test_00_check_mine
+2022-06-27 14:51:37,736 - iPhone X - INFO - --> init.click_my_tab
+2022-06-27 14:51:55,646 - iPhone X - INFO - --> mine.check_mine_status
+2022-06-27 14:51:55,646 - iPhone X - INFO - 判断主客态个人页
+2022-06-27 14:51:57,721 - iPhone X - INFO - --> mine.check_page_element
+2022-06-27 14:51:57,721 - iPhone X - INFO - 检查我的页面元素
+2022-06-27 14:52:02,648 - iPhone X - DEBUG - <-- TestMine.test_00_check_mine, Success
+2022-06-27 16:51:37,503 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-27 16:51:38,590 - iPhone X - INFO - --> init.activate_app
+2022-06-27 16:51:40,109 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-27 16:51:40,110 - iPhone X - INFO - --> init.check_login_status
+2022-06-27 16:51:40,110 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-27 16:51:42,100 - iPhone X - INFO - --> Login.logout
+2022-06-27 16:51:42,100 - iPhone X - INFO - 退出登录
+2022-06-27 16:51:51,925 - iPhone X - DEBUG - 
+--> TestLogin.test_00_check_agreement
+2022-06-27 16:51:51,926 - iPhone X - INFO - --> Login.check_agreement_update_popup_window
+2022-06-27 16:51:51,926 - iPhone X - INFO - 检查登录页协议更新弹窗
+2022-06-27 16:51:54,223 - iPhone X - INFO - --> Login.select_agreement_update_disagree
+2022-06-27 16:51:54,223 - iPhone X - INFO - 选择不同意并退出
+2022-06-27 16:51:57,571 - iPhone X - INFO - --> Login.check_agreement_update_popup_window
+2022-06-27 16:51:57,572 - iPhone X - INFO - 检查登录页协议更新弹窗
+2022-06-27 16:51:59,334 - iPhone X - INFO - --> Login.select_agreement_update_agree
+2022-06-27 16:51:59,335 - iPhone X - INFO - 选择同意协议
+2022-06-27 16:52:02,528 - iPhone X - DEBUG - <-- TestLogin.test_00_check_agreement, Success
+2022-06-27 16:52:06,998 - iPhone X - INFO - --> init.activate_app
+2022-06-27 16:52:08,550 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-27 16:52:08,550 - iPhone X - INFO - --> init.check_login_status
+2022-06-27 16:52:08,550 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-27 16:52:10,533 - iPhone X - DEBUG - 
+--> TestLogin.test_01_phone_login
+2022-06-27 16:52:10,533 - iPhone X - INFO - --> Login.select_more_login_window
+2022-06-27 16:52:10,533 - iPhone X - INFO - 选择更多登录方式
+2022-06-27 16:52:12,921 - iPhone X - INFO - --> Login.select_agreement_box_window
+2022-06-27 16:52:12,921 - iPhone X - INFO - 在更多登录方式抽屉中 勾选已阅读并同意协议
+2022-06-27 16:52:38,988 - iPhone X - INFO - --> Login.select_phone_login
+2022-06-27 16:52:38,988 - iPhone X - INFO - 选择手机号登录
+2022-06-27 16:52:42,381 - iPhone X - INFO - --> Login.select_phone_psw_login
+2022-06-27 16:52:42,381 - iPhone X - INFO - 选择账号密码登录
+2022-06-27 16:52:44,499 - iPhone X - INFO - --> Login.select_phone_password
+2022-06-27 16:52:44,499 - iPhone X - INFO - 输入手机号，密码 , 登录账号
+2022-06-27 16:52:54,350 - iPhone X - INFO - --> Login.check_login_status
+2022-06-27 16:52:54,350 - iPhone X - INFO - 根据动态tab和我-编辑按钮，检查是否登录账号
+2022-06-27 16:52:58,395 - iPhone X - DEBUG - <-- TestLogin.test_01_phone_login, Success
+2022-06-27 16:53:01,495 - iPhone X - INFO - --> init.activate_app
+2022-06-27 16:53:03,515 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-27 16:53:03,515 - iPhone X - INFO - --> init.check_login_status
+2022-06-27 16:53:03,515 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-27 16:53:06,125 - iPhone X - INFO - --> Login.logout
+2022-06-27 16:53:06,125 - iPhone X - INFO - 退出登录
+2022-06-27 16:53:16,116 - iPhone X - DEBUG - 
+--> TestLogin.test_02_logout
+2022-06-27 16:53:16,116 - iPhone X - INFO - --> Login.logout
+2022-06-27 16:53:16,116 - iPhone X - INFO - 退出登录
+2022-06-27 16:53:46,338 - iPhone X - ERROR - 	<-- Login.logout, Exception, ('element not found', 'timeout 30.0')
+2022-06-27 16:53:47,811 - iPhone X - ERROR - <-- TestLogin.test_02_logout, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-27 16:53:49,815 - iPhone X - INFO - 运行完关闭app
+2022-06-27 16:53:49,815 - iPhone X - INFO - --> init.terminate_app
+2022-06-27 16:53:53,113 - iPhone X - INFO - --> init.check_login_status
+2022-06-27 16:53:53,114 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-27 16:53:55,833 - iPhone X - DEBUG - 
+--> TestMine.test_00_check_mine
+2022-06-27 16:53:55,833 - iPhone X - INFO - --> init.click_my_tab
+2022-06-27 16:54:26,013 - iPhone X - ERROR - 	<-- init.click_my_tab, Exception, ('element not found', 'timeout 30.0')
+2022-06-27 16:54:28,157 - iPhone X - ERROR - <-- TestMine.test_00_check_mine, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-27 16:54:30,021 - iPhone X - DEBUG - 
+--> TestMine.test_01_edit_account_introduce
+2022-06-27 16:54:30,021 - iPhone X - INFO - --> init.click_my_tab
+2022-06-27 16:55:00,184 - iPhone X - ERROR - 	<-- init.click_my_tab, Exception, ('element not found', 'timeout 30.0')
+2022-06-27 16:55:02,347 - iPhone X - ERROR - <-- TestMine.test_01_edit_account_introduce, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-27 16:55:02,972 - iPhone X - DEBUG - 
+--> TestMine.test_01_edit_account_gender
+2022-06-27 16:55:02,973 - iPhone X - INFO - --> mine.click_edit
+2022-06-27 16:55:02,973 - iPhone X - INFO - 进入编辑个人信息页面
+2022-06-27 16:55:06,123 - iPhone X - ERROR - 	<-- mine.click_edit, Exception, ('element not found', 'timeout 3.0')
+2022-06-27 16:55:08,336 - iPhone X - ERROR - <-- TestMine.test_01_edit_account_gender, Exception, ('element not found', 'timeout 3.0')
+
+2022-06-27 16:55:09,002 - iPhone X - DEBUG - 
+--> TestMine.test_01_edit_account_jellow
+2022-06-27 16:55:09,002 - iPhone X - INFO - --> mine.click_edit
+2022-06-27 16:55:09,002 - iPhone X - INFO - 进入编辑个人信息页面
+2022-06-27 16:55:12,163 - iPhone X - ERROR - 	<-- mine.click_edit, Exception, ('element not found', 'timeout 3.0')
+2022-06-27 16:55:14,350 - iPhone X - ERROR - <-- TestMine.test_01_edit_account_jellow, Exception, ('element not found', 'timeout 3.0')
+
+2022-06-27 16:55:14,992 - iPhone X - DEBUG - 
+--> TestMine.test_00_search_user
+2022-06-27 16:55:14,992 - iPhone X - INFO - --> init.click_discovery_tab
+2022-06-27 16:55:45,190 - iPhone X - ERROR - 	<-- init.click_discovery_tab, Exception, ('element not found', 'timeout 30.0')
+2022-06-27 16:55:47,323 - iPhone X - ERROR - <-- TestMine.test_00_search_user, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-27 16:55:47,953 - iPhone X - DEBUG - 
+--> TestMine.test_00_search_circle
+2022-06-27 16:55:47,953 - iPhone X - INFO - --> init.click_discovery_tab
+2022-06-27 16:56:18,176 - iPhone X - ERROR - 	<-- init.click_discovery_tab, Exception, ('element not found', 'timeout 30.0')
+2022-06-27 16:56:20,320 - iPhone X - ERROR - <-- TestMine.test_00_search_circle, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-28 15:53:23,057 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-28 15:53:25,105 - iPhone X - INFO - --> init.activate_app
+2022-06-28 15:53:26,648 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-28 15:53:26,648 - iPhone X - INFO - --> init.check_login_status
+2022-06-28 15:53:26,648 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-28 15:53:28,382 - iPhone X - DEBUG - 
+--> TestLogin.test_00_check_agreement
+2022-06-28 15:53:28,382 - iPhone X - INFO - --> Login.check_agreement_update_popup_window
+2022-06-28 15:53:28,382 - iPhone X - INFO - 检查登录页协议更新弹窗
+2022-06-28 15:53:30,057 - iPhone X - INFO - --> Login.select_agreement_update_disagree
+2022-06-28 15:53:30,057 - iPhone X - INFO - 选择不同意并退出
+2022-06-28 15:53:33,240 - iPhone X - INFO - --> Login.check_agreement_update_popup_window
+2022-06-28 15:53:33,241 - iPhone X - INFO - 检查登录页协议更新弹窗
+2022-06-28 15:53:34,897 - iPhone X - INFO - --> Login.select_agreement_update_agree
+2022-06-28 15:53:34,897 - iPhone X - INFO - 选择同意协议
+2022-06-28 15:53:37,014 - iPhone X - DEBUG - <-- TestLogin.test_00_check_agreement, Success
+2022-06-28 15:53:39,011 - iPhone X - INFO - --> init.activate_app
+2022-06-28 15:53:40,479 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-28 15:53:40,479 - iPhone X - INFO - --> init.check_login_status
+2022-06-28 15:53:40,479 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-28 15:53:42,237 - iPhone X - DEBUG - 
+--> TestLogin.test_01_phone_login
+2022-06-28 15:53:42,238 - iPhone X - INFO - --> Login.select_more_login_window
+2022-06-28 15:53:42,238 - iPhone X - INFO - 选择更多登录方式
+2022-06-28 15:53:44,292 - iPhone X - INFO - --> Login.select_agreement_box_window
+2022-06-28 15:53:44,292 - iPhone X - INFO - 在更多登录方式抽屉中 勾选已阅读并同意协议
+2022-06-28 15:53:46,652 - iPhone X - INFO - --> Login.select_phone_login
+2022-06-28 15:53:46,652 - iPhone X - INFO - 选择手机号登录
+2022-06-28 15:53:49,979 - iPhone X - INFO - --> Login.select_phone_psw_login
+2022-06-28 15:53:49,979 - iPhone X - INFO - 选择账号密码登录
+2022-06-28 15:53:52,158 - iPhone X - INFO - --> Login.select_phone_password
+2022-06-28 15:53:52,158 - iPhone X - INFO - 输入手机号，密码 , 登录账号
+2022-06-28 15:54:01,537 - iPhone X - INFO - --> Login.check_login_status
+2022-06-28 15:54:01,537 - iPhone X - INFO - 根据动态tab和我-编辑按钮，检查是否登录账号
+2022-06-28 15:54:06,655 - iPhone X - DEBUG - <-- TestLogin.test_01_phone_login, Success
+2022-06-28 15:54:09,472 - iPhone X - INFO - --> init.activate_app
+2022-06-28 15:54:11,591 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-28 15:54:11,592 - iPhone X - INFO - --> init.check_login_status
+2022-06-28 15:54:11,592 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-28 15:54:14,373 - iPhone X - INFO - --> Login.logout
+2022-06-28 15:54:14,373 - iPhone X - INFO - 退出登录
+2022-06-28 15:54:25,678 - iPhone X - DEBUG - 
+--> TestLogin.test_02_logout
+2022-06-28 15:54:25,678 - iPhone X - INFO - --> Login.logout
+2022-06-28 15:54:25,678 - iPhone X - INFO - 退出登录
+2022-06-28 15:54:56,022 - iPhone X - ERROR - 	<-- Login.logout, Exception, ('element not found', 'timeout 30.0')
+2022-06-28 15:54:57,521 - iPhone X - ERROR - <-- TestLogin.test_02_logout, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-28 15:54:59,745 - iPhone X - INFO - 运行完关闭app
+2022-06-28 15:54:59,745 - iPhone X - INFO - --> init.terminate_app
+2022-06-28 16:43:36,889 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-28 16:45:02,803 - iPhone X - INFO - udid: cea307eb34fb7a0ebc2b6402e62de9bdb55cebfa
+2022-06-28 16:45:03,766 - iPhone X - INFO - --> init.activate_app
+2022-06-28 16:45:05,313 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-28 16:45:05,314 - iPhone X - INFO - --> init.check_login_status
+2022-06-28 16:45:05,314 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-28 16:45:07,142 - iPhone X - DEBUG - 
+--> TestLogin.test_00_check_agreement
+2022-06-28 16:45:07,143 - iPhone X - INFO - --> Login.check_agreement_update_popup_window
+2022-06-28 16:45:07,143 - iPhone X - INFO - 检查登录页协议更新弹窗
+2022-06-28 16:45:08,810 - iPhone X - INFO - --> Login.select_agreement_update_disagree
+2022-06-28 16:45:08,810 - iPhone X - INFO - 选择不同意并退出
+2022-06-28 16:45:12,002 - iPhone X - INFO - --> Login.check_agreement_update_popup_window
+2022-06-28 16:45:12,002 - iPhone X - INFO - 检查登录页协议更新弹窗
+2022-06-28 16:45:13,653 - iPhone X - INFO - --> Login.select_agreement_update_agree
+2022-06-28 16:45:13,653 - iPhone X - INFO - 选择同意协议
+2022-06-28 16:45:15,726 - iPhone X - DEBUG - <-- TestLogin.test_00_check_agreement, Success
+2022-06-28 16:45:18,372 - iPhone X - INFO - --> init.activate_app
+2022-06-28 16:45:19,851 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-28 16:45:19,851 - iPhone X - INFO - --> init.check_login_status
+2022-06-28 16:45:19,851 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-28 16:45:21,623 - iPhone X - DEBUG - 
+--> TestLogin.test_01_phone_login
+2022-06-28 16:45:21,623 - iPhone X - INFO - --> Login.select_more_login_window
+2022-06-28 16:45:21,623 - iPhone X - INFO - 选择更多登录方式
+2022-06-28 16:45:23,615 - iPhone X - INFO - --> Login.select_agreement_box_window
+2022-06-28 16:45:23,616 - iPhone X - INFO - 在更多登录方式抽屉中 勾选已阅读并同意协议
+2022-06-28 16:45:25,950 - iPhone X - INFO - --> Login.select_phone_login
+2022-06-28 16:45:25,950 - iPhone X - INFO - 选择手机号登录
+2022-06-28 16:45:29,249 - iPhone X - INFO - --> Login.select_phone_psw_login
+2022-06-28 16:45:29,249 - iPhone X - INFO - 选择账号密码登录
+2022-06-28 16:45:31,424 - iPhone X - INFO - --> Login.select_phone_password
+2022-06-28 16:45:31,425 - iPhone X - INFO - 输入手机号，密码 , 登录账号
+2022-06-28 16:45:40,820 - iPhone X - INFO - --> Login.check_login_status
+2022-06-28 16:45:40,820 - iPhone X - INFO - 根据动态tab和我-编辑按钮，检查是否登录账号
+2022-06-28 16:45:45,254 - iPhone X - DEBUG - <-- TestLogin.test_01_phone_login, Success
+2022-06-28 16:45:48,187 - iPhone X - INFO - --> init.activate_app
+2022-06-28 16:45:50,243 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-28 16:45:50,243 - iPhone X - INFO - --> init.check_login_status
+2022-06-28 16:45:50,243 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-28 16:45:53,035 - iPhone X - INFO - --> Login.logout
+2022-06-28 16:45:53,035 - iPhone X - INFO - 退出登录
+2022-06-28 16:46:03,592 - iPhone X - DEBUG - 
+--> TestLogin.test_02_logout
+2022-06-28 16:46:03,592 - iPhone X - INFO - --> Login.logout
+2022-06-28 16:46:03,592 - iPhone X - INFO - 退出登录
+2022-06-28 16:46:33,861 - iPhone X - ERROR - 	<-- Login.logout, Exception, ('element not found', 'timeout 30.0')
+2022-06-28 16:46:35,341 - iPhone X - ERROR - <-- TestLogin.test_02_logout, Exception, ('element not found', 'timeout 30.0')
+
+2022-06-28 16:46:37,249 - iPhone X - INFO - 运行完关闭app
+2022-06-28 16:46:37,250 - iPhone X - INFO - --> init.terminate_app
+2022-06-28 16:46:40,446 - iPhone X - INFO - --> init.activate_app
+2022-06-28 16:46:43,176 - iPhone X - INFO - 启动后，检查app登录态
+2022-06-28 16:46:43,177 - iPhone X - INFO - --> init.check_login_status
+2022-06-28 16:46:43,177 - iPhone X - INFO - 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+2022-06-28 16:46:44,980 - iPhone X - INFO - --> init.login_test_account
+2022-06-28 16:46:45,357 - iPhone X - INFO - --> Login.select_agreement_update_agree
+2022-06-28 16:46:45,357 - iPhone X - INFO - 选择同意协议
+2022-06-28 16:46:47,340 - iPhone X - INFO - --> Login.select_more_login_window
+2022-06-28 16:46:47,340 - iPhone X - INFO - 选择更多登录方式
+2022-06-28 16:46:49,341 - iPhone X - INFO - --> Login.select_agreement_box_window
+2022-06-28 16:46:49,341 - iPhone X - INFO - 在更多登录方式抽屉中 勾选已阅读并同意协议
+2022-06-28 16:46:51,646 - iPhone X - INFO - --> Login.select_phone_login
+2022-06-28 16:46:51,646 - iPhone X - INFO - 选择手机号登录
+2022-06-28 16:46:54,916 - iPhone X - INFO - --> Login.select_phone_psw_login
+2022-06-28 16:46:54,916 - iPhone X - INFO - 选择账号密码登录
+2022-06-28 16:46:57,125 - iPhone X - INFO - --> Login.select_phone_password
+2022-06-28 16:46:57,125 - iPhone X - INFO - 输入手机号，密码 , 登录账号
+2022-06-28 16:47:06,604 - iPhone X - INFO - --> Login.check_login_status
+2022-06-28 16:47:06,604 - iPhone X - INFO - 根据动态tab和我-编辑按钮，检查是否登录账号
+2022-06-28 16:47:12,937 - iPhone X - INFO - --> init.check_home_state
+2022-06-28 16:47:16,129 - iPhone X - DEBUG - 
+--> TestMine.test_00_check_mine
+2022-06-28 16:47:16,129 - iPhone X - INFO - --> init.click_my_tab
+2022-06-28 16:47:19,966 - iPhone X - INFO - --> mine.check_mine_status
+2022-06-28 16:47:19,966 - iPhone X - INFO - 判断主客态个人页
+2022-06-28 16:47:22,402 - iPhone X - INFO - --> mine.check_page_element
+2022-06-28 16:47:22,402 - iPhone X - INFO - 检查我的页面元素
+2022-06-28 16:47:27,441 - iPhone X - DEBUG - <-- TestMine.test_00_check_mine, Success
+2022-06-28 16:47:33,604 - iPhone X - DEBUG - 
+--> TestMine.test_01_edit_account_introduce
+2022-06-28 16:47:33,604 - iPhone X - INFO - --> init.click_my_tab
+2022-06-28 16:47:37,126 - iPhone X - INFO - --> mine.click_edit
+2022-06-28 16:47:37,126 - iPhone X - INFO - 进入编辑个人信息页面
+2022-06-28 16:47:40,515 - iPhone X - INFO - --> mine.edit_introduce
+2022-06-28 16:47:40,515 - iPhone X - INFO - 修改个性签名为auto_test_account
+2022-06-28 16:48:21,443 - iPhone X - INFO - --> mine.edit_back_button
+2022-06-28 16:48:21,443 - iPhone X - INFO - 点击二级页面的返回按钮
+2022-06-28 16:48:24,287 - iPhone X - DEBUG - <-- TestMine.test_01_edit_account_introduce, Success
+2022-06-28 16:48:26,538 - iPhone X - DEBUG - 
+--> TestMine.test_01_edit_account_gender
+2022-06-28 16:48:26,538 - iPhone X - INFO - --> mine.click_edit
+2022-06-28 16:48:26,538 - iPhone X - INFO - 进入编辑个人信息页面
+2022-06-28 16:48:29,855 - iPhone X - INFO - --> mine.select_edit_gender
+2022-06-28 16:48:29,855 - iPhone X - INFO - 选择性别
+2022-06-28 16:48:32,353 - iPhone X - INFO - --> mine.set_gender_man
+2022-06-28 16:48:32,353 - iPhone X - INFO - 选择性别男
+2022-06-28 16:48:34,914 - iPhone X - INFO - --> mine.edit_back_button
+2022-06-28 16:48:34,915 - iPhone X - INFO - 点击二级页面的返回按钮
+2022-06-28 16:48:37,844 - iPhone X - DEBUG - <-- TestMine.test_01_edit_account_gender, Success
+2022-06-28 16:48:39,757 - iPhone X - DEBUG - 
+--> TestMine.test_01_edit_account_jellow
+2022-06-28 16:48:39,758 - iPhone X - INFO - --> mine.click_edit
+2022-06-28 16:48:39,758 - iPhone X - INFO - 进入编辑个人信息页面
+2022-06-28 16:48:43,054 - iPhone X - INFO - --> mine.select_jellow_icon
+2022-06-28 16:48:43,054 - iPhone X - INFO - 修改会员标识
+2022-06-28 16:48:46,330 - iPhone X - INFO - --> mine.set_jellow_icon
+2022-06-28 16:48:46,331 - iPhone X - INFO - 选择不展示会员标识
+2022-06-28 16:48:48,418 - iPhone X - INFO - --> mine.edit_back_button
+2022-06-28 16:48:48,419 - iPhone X - INFO - 点击二级页面的返回按钮
+2022-06-28 16:48:50,696 - iPhone X - DEBUG - <-- TestMine.test_01_edit_account_jellow, Success
+2022-06-28 16:48:52,424 - iPhone X - INFO - --> init.click_my_tab
+2022-06-28 16:49:22,442 - iPhone X - ERROR - 	<-- init.click_my_tab, Exception, ('element not found', 'timeout 30.0')
+2022-06-28 16:49:24,155 - iPhone X - DEBUG - 
+--> TestSearch.test_00_search_user
+2022-06-28 16:49:24,155 - iPhone X - INFO - --> init.click_discovery_tab
+2022-06-28 16:49:38,522 - iPhone X - INFO - --> search.click_search
+2022-06-28 16:49:38,522 - iPhone X - INFO - 点击搜索框
+2022-06-28 16:49:41,352 - iPhone X - INFO - --> search.search_user
+2022-06-28 16:49:41,352 - iPhone X - INFO - 搜索用户，桂冠诗人
+2022-06-28 16:49:47,856 - iPhone X - INFO - --> search.search_back_button
+2022-06-28 16:49:47,856 - iPhone X - INFO - 搜索页面返回按钮
+2022-06-28 16:49:50,926 - iPhone X - DEBUG - <-- TestSearch.test_00_search_user, Success
+2022-06-28 16:49:52,857 - iPhone X - DEBUG - 
+--> TestSearch.test_00_search_circle
+2022-06-28 16:49:52,857 - iPhone X - INFO - --> init.click_discovery_tab
+2022-06-28 16:49:56,610 - iPhone X - INFO - --> search.click_search
+2022-06-28 16:49:56,610 - iPhone X - INFO - 点击搜索框
+2022-06-28 16:49:59,570 - iPhone X - INFO - --> search.search_default
+2022-06-28 16:49:59,570 - iPhone X - INFO - 搜索，展示默认搜索结果
+2022-06-28 16:50:02,721 - iPhone X - ERROR - 	<-- search.search_default, Exception, 搜索结果异常
+2022-06-28 16:50:04,265 - iPhone X - ERROR - <-- TestSearch.test_00_search_circle, Exception, 搜索结果异常
+

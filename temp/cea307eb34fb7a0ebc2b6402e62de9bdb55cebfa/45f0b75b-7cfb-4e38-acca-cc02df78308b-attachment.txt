@@ -1,0 +1,10 @@
+DEBUG    iOS:log.py:32 
+--> TestMine.test_01_edit_account_jellow
+INFO     iOS:log.py:35 --> mine.select_jellow_icon
+INFO     iOS:log.py:35 修改会员标识
+WARNING  retry.api:api.py:40 WDARequestError(status=110, value={'error': 'stale element reference', 'message': 'The previously found element ""不展示" StaticText" is not present in the current view anymore. Make sure the application UI has the expected state. You could also try to switch the binding strategy using the \'boundElementsByIndex\' setting for the element lookup. Original error: No matches found for Identity Binding from input {(\n    StaticText, {{-87.5, 363.5}, {46.0, 22.7}}, label: \'不展示\',\n    StaticText, {{15.0, 196.0}, {46.0, 22.7}}, label: \'不展示\'\n)}'}), retrying in 0.5 seconds...
+INFO     iOS:log.py:35 --> mine.set_jellow_icon
+INFO     iOS:log.py:35 选择不展示会员标识
+INFO     iOS:log.py:35 --> mine.edit_back_button
+INFO     iOS:log.py:35 点击二级页面的返回按钮
+DEBUG    iOS:log.py:32 <-- TestMine.test_01_edit_account_jellow, Success

@@ -1,0 +1,28 @@
+INFO     iOS:log.py:35 --> init.activate_app
+INFO     iOS:log.py:35 启动后，检查app登录态
+INFO     iOS:log.py:35 --> init.check_login_status
+INFO     iOS:log.py:35 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+INFO     iOS:log.py:35 --> init.login_test_account
+INFO     iOS:log.py:35 --> Login.select_agreement_update_agree
+INFO     iOS:log.py:35 选择同意协议
+INFO     iOS:log.py:35 --> Login.select_more_login_window
+INFO     iOS:log.py:35 选择更多登录方式
+INFO     iOS:log.py:35 --> Login.select_agreement_box_window
+INFO     iOS:log.py:35 在更多登录方式抽屉中 勾选已阅读并同意协议
+INFO     iOS:log.py:35 --> Login.select_phone_login
+INFO     iOS:log.py:35 选择手机号登录
+INFO     iOS:log.py:35 --> Login.select_phone_psw_login
+INFO     iOS:log.py:35 选择账号密码登录
+INFO     iOS:log.py:35 --> Login.select_phone_password
+INFO     iOS:log.py:35 输入手机号，密码 , 登录账号
+INFO     iOS:log.py:35 --> Login.check_login_status
+INFO     iOS:log.py:35 根据动态tab和我-编辑按钮，检查是否登录账号
+INFO     iOS:log.py:35 --> init.check_home_state
+DEBUG    iOS:log.py:32 
+--> TestMine.test_00_check_mine
+INFO     iOS:log.py:35 --> init.click_my_tab
+INFO     iOS:log.py:35 --> mine.check_mine_status
+INFO     iOS:log.py:35 判断主客态个人页
+INFO     iOS:log.py:35 --> mine.check_page_element
+INFO     iOS:log.py:35 检查我的页面元素
+DEBUG    iOS:log.py:32 <-- TestMine.test_00_check_mine, Success

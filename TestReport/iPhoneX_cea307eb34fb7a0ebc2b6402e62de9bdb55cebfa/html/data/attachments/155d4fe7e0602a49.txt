@@ -1,0 +1,10 @@
+DEBUG    iOS:log.py:32 
+--> TestMine.test_01_edit_account_introduce
+INFO     iOS:log.py:35 --> init.click_my_tab
+INFO     iOS:log.py:35 --> mine.click_edit
+INFO     iOS:log.py:35 进入编辑个人信息页面
+INFO     iOS:log.py:35 --> mine.edit_introduce
+INFO     iOS:log.py:35 修改个性签名为auto_test_account
+INFO     iOS:log.py:35 --> mine.edit_back_button
+INFO     iOS:log.py:35 点击二级页面的返回按钮
+DEBUG    iOS:log.py:32 <-- TestMine.test_01_edit_account_introduce, Success

@@ -1,0 +1,11 @@
+DEBUG    iOS:log.py:32 
+--> TestMine.test_01_edit_account_gender
+INFO     iOS:log.py:35 --> mine.click_edit
+INFO     iOS:log.py:35 进入编辑个人信息页面
+INFO     iOS:log.py:35 --> mine.select_edit_gender
+INFO     iOS:log.py:35 选择性别
+INFO     iOS:log.py:35 --> mine.set_gender_man
+INFO     iOS:log.py:35 选择性别男
+INFO     iOS:log.py:35 --> mine.edit_back_button
+INFO     iOS:log.py:35 点击二级页面的返回按钮
+DEBUG    iOS:log.py:32 <-- TestMine.test_01_edit_account_gender, Success

@@ -1,0 +1,4 @@
+INFO     iOS:log.py:35 --> init.activate_app
+INFO     iOS:log.py:35 启动后，检查app登录态
+INFO     iOS:log.py:35 --> init.check_login_status
+ERROR    iOS:log.py:44 	<-- init.check_login_status, Exception, check_login_status() missing 1 required positional argument: 'self'

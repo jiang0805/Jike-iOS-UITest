@@ -1,0 +1,6 @@
+DEBUG    iOS:log.py:32 
+--> TestLogin.test_01_phone_login
+INFO     iOS:log.py:35 --> Login.select_agreement_update_agree
+INFO     iOS:log.py:35 选择同意协议
+ERROR    iOS:log.py:44 	<-- Login.select_agreement_update_agree, Exception, ('element not found', 'timeout 30.0')
+ERROR    iOS:log.py:44 <-- TestLogin.test_01_phone_login, Exception, ('element not found', 'timeout 30.0')

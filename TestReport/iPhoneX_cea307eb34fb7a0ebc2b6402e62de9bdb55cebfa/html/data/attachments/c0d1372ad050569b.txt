@@ -1,0 +1,5 @@
+DEBUG    iOS:log.py:32 
+--> TestMine.test_01_edit_account_introduce
+INFO     iOS:log.py:35 --> init.click_my_tab
+ERROR    iOS:log.py:44 	<-- init.click_my_tab, Exception, click_my_tab() missing 1 required positional argument: 'self'
+ERROR    iOS:log.py:44 <-- TestMine.test_01_edit_account_introduce, Exception, click_my_tab() missing 1 required positional argument: 'self'

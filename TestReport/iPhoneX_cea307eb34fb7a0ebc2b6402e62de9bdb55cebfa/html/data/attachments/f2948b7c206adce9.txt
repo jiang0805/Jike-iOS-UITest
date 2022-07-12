@@ -1,0 +1,7 @@
+INFO     iOS:log.py:35 --> init.check_login_status
+INFO     iOS:log.py:35 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+DEBUG    iOS:log.py:32 
+--> TestMine.test_00_check_mine
+INFO     iOS:log.py:35 --> init.click_my_tab
+ERROR    iOS:log.py:44 	<-- init.click_my_tab, Exception, ('element not found', 'timeout 30.0')
+ERROR    iOS:log.py:44 <-- TestMine.test_00_check_mine, Exception, ('element not found', 'timeout 30.0')

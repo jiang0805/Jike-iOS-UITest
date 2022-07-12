@@ -1,0 +1,8 @@
+INFO     iOS:log.py:35 --> init.activate_app
+INFO     iOS:log.py:35 启动后，检查app登录态
+INFO     iOS:log.py:35 --> init.check_login_status
+INFO     iOS:log.py:35 检查登录状态，登录返回logged，未登录返回notLogin，其余返回other
+DEBUG    iOS:log.py:32 
+--> TestLogin.test_00_check_agreement
+DEBUG    iOS:log.py:32 <-- TestLogin.test_00_check_agreement, Success
+INFO     iOS:log.py:35 运行完关闭app
